@@ -14,6 +14,6 @@ I currently work in NLP, implementing production-ready solutions for automated d
 - [Teaching Your Model to Learn from Itself](https://towardsdatascience.com/teaching-your-model-to-learn-from-itself-8b5ef13eb173?source=rss-a3ecf86934da------2)
 - [Modeling Fair and Fun Randomness in Video Games via Bad Luck Protection](https://medium.com/@niklasvmoers/designing-fair-and-fun-randomness-in-video-games-via-bad-luck-protection-48f2c2262cfa?source=rss-a3ecf86934da------2)
 - [“With four parameters I can fit an elephant, and with five I can make him wiggle his trunk.”](https://medium.com/@niklasvmoers/with-four-parameters-i-can-fit-an-elephant-and-with-five-i-can-make-him-wiggle-his-trunk-86c9b8aa643d?source=rss-a3ecf86934da------2)
-- [Stop Using CNNs for Text Classification](https://towardsdatascience.com/why-cnns-and-text-embeddings-dont-mix-46aa3cf1156c?source=rss-a3ecf86934da------2)
+- [Stop Using CNNs for Text Classification](https://medium.com/@niklasvmoers/why-cnns-and-text-embeddings-dont-mix-46aa3cf1156c?source=rss-a3ecf86934da------2)
 - [Swarm Intelligence —How Bagging Improves Models](https://medium.com/@niklasvmoers/swarm-intelligence-how-bagging-improves-models-360e0ba623af?source=rss-a3ecf86934da------2)
 <!-- BLOG-POST-LIST:END -->
