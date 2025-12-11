@@ -1,9 +1,3 @@
-# Hi there 👋
-
-I'm an ML Consultant at [crossnative](https://www.crossnative.com/) with a background in mathematics from Hamburg, Germany.
-
-I currently work in NLP, implementing production-ready solutions for automated document processing.
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasvonM&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![LinkedIn link](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-thoma/)
